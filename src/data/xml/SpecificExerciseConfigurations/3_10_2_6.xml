@@ -1,0 +1,12 @@
+﻿<DataAnalysisConfiguration>
+  <ExerciceLength Value="1" />
+  <ScanFileName Value="Scans/DataAnalysis/3_10_2_6.zip" />
+  <BlockDepth Value="13" />
+  <Weld TopCapLength="16" RootLength="3" BottomCapLength="0" />
+  <Answers XTolerance="4" YTolerance="4" ZTolerance="10">
+    <!--1-Based-->
+    <Answer No="1" X1="8" X2="" Y1="0" Y2="5.4" Z1="48" Z2="73" DeltaX="" DeltaY="5.4" DeltaZ="25" Amp="100" Call="0"/>
+    <Answer No="2" X1="-1" X2="" Y1="4.9" Y2="6.9" Z1="155" Z2="170" DeltaX="" DeltaY="2" DeltaZ="15" Amp="94" Call="0"/>
+	<Answer No="3" X1="-4" X2="" Y1="1" Y2="7.2" Z1="254" Z2="286" DeltaX="" DeltaY="6.2" DeltaZ="32" Amp="100" Call="0"/>
+  </Answers>
+</DataAnalysisConfiguration>
